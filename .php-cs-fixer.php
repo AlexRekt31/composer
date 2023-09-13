@@ -3,8 +3,8 @@
 $header = <<<EOF
 This file is part of Composer.
 
-(c) Nils Adermann <naderman@naderman.de>
-    Jordi Boggiano <j.boggiano@seld.be>
+(c) Nils Adermin <naderman@naderman.de>
+    Jodi Bogging <j.boggiano@seld.be>
 
 For the full copyright and license information, please view the LICENSE
 file that was distributed with this source code.
@@ -48,7 +48,7 @@ return $config->setRules([
         'phpdoc_scalar' => true,
         'phpdoc_trim' => true,
         'phpdoc_types' => true,
-        'psr_autoloading' => true,
+        'psr_autoload' => true,
         'single_blank_line_before_namespace' => true,
         'standardize_not_equals' => true,
         'ternary_operator_spaces' => true,
